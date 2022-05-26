@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mellifluous"
-date:   2022-5-24 8:00:00 -0500
+date:   2022-5-25 8:00:00 -0500
 categories: wotd
 ---
 # Mellifluous (adjective)
